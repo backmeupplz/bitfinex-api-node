@@ -39,6 +39,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "lodash": "^4.17.4",
+    "nonce": "^1.0.4",
     "request": "^2.67.0",
     "request-promise": "^4.2.0",
     "ws": "^3.0.0"
